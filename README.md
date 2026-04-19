@@ -1,7 +1,7 @@
 # OpenClaw Log Analyzer
 
 <p align="center">
-  <img src="assets/openclaw-logo.svg" alt="OpenClaw logo" width="180" />
+  <img src="assets/Logo.png" alt="OpenClaw logo" width="180" />
 </p>
 
 <p align="center">
